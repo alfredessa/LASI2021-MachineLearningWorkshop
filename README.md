@@ -1,2 +1,2 @@
-# LASI2021-MachineLearningWorkshop
+# LASI2021- Machine Learning Workshop
  
